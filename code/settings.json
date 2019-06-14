@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+    "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
+    "window.titleBarStyle": "custom",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'monaco','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.lineHeight": 0,
+    "explorer.openEditors.visible": 0
+}
